@@ -7,4 +7,5 @@ When you want to find implementation of a paper
 - tensorlog推理机 https://github.com/TeamCohen/TensorLog
 - 强化学习资源 https://github.com/aikorea/awesome-rl
 - algorithm dog 强化学习博客 https://github.com/algorithmdog/Reinforcement_Learning_Blog
-- Rationalizing Neural Predictions和其他 https://github.com/taolei87/rcnn
+- Rationalizing Neural Predictions和其他 https://github.com/taolei87/rcnn 
+- DNC https://github.com/Mostafa-Samir/DNC-tensorflow
