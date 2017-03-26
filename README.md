@@ -9,3 +9,6 @@ When you want to find implementation of a paper
 - algorithm dog 强化学习博客 https://github.com/algorithmdog/Reinforcement_Learning_Blog
 - Rationalizing Neural Predictions和其他 https://github.com/taolei87/rcnn 
 - DNC https://github.com/Mostafa-Samir/DNC-tensorflow
+
+
+- A curated list of resources dedicated to Natural Language Processing (NLP) https://github.com/keon/awesome-nlp
