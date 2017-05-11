@@ -12,3 +12,4 @@ When you want to find implementation of a paper
 
 
 - A curated list of resources dedicated to Natural Language Processing (NLP) https://github.com/keon/awesome-nlp
+- Learning Graph State Transition https://github.com/hexahedria/gated-graph-transformer-network
